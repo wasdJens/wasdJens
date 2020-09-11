@@ -4,3 +4,4 @@ I am Jens - Software Developer based in Germany and currently working for Conclu
 
 - 📫 You can reach me under: `wasdJens@gmail.com`
 - ✉️ For a full cv you can write me an email
+- I have a Bachelors Degree in Software Engineering - you can read my full thesis [here](https://github.com/wasdJens/bachelorthesis_jens_reiner)

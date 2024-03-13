@@ -4,7 +4,7 @@ I am Jens - Software Engineer based in Germany. I am creating digital products w
 
 I am active on LinkedIn and have my own personal toolbox (Software Engineering Toolbox).
 
-- 📫 You can reach me under: `wasdJens@gmail.com` [^1]
+- 📫 You can reach me under: `wasdJens [a t ] gmail [ d o t ] com` [^1]
 - 💼 My LinkedIn Profile is here https://www.linkedin.com/in/jens-reiner/
 
 [^1]:Please note that I live in germany and if you use this email for "marketing" or "spam" you will recevice a nice DSGVO response from me :)
